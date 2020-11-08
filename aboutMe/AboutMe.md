@@ -8,11 +8,11 @@ My name is Clifford Ouma. I am a front-end web developer. I am a student at Moi 
 
 #### Skills
 
-1. JavaScript 
-1. HTML 
-1. CSS 
-1. SaSS 
-1. Git
+- [x] JavaScript 
+- [x] HTML 
+- [x] CSS 
+- [x] Sass 
+- [x] Git
 
 #### Contact Information
 
